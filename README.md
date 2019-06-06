@@ -1,17 +1,16 @@
-# Title
+# SPD 1.02 - Engineering Careers 2
 
 ## Course Description
 
-Describe your course here. A short elevator pitch for the course, use positive, friendly language to get students excited to take your course. Use of I/you/we should be used over instructor/students.
+This course focuses on engineering careers, particularly on leadership: coaching, leading people and organizations. Students will also focus on solving coding challenges and preparing for technical interviews. Students who perform well in this class will have the option to become peer coaches for incoming students at the start of the new school year.
 
-### Why you should know this (optional)
+### Why you should know this
 
-Explain why students should care to learn the material presented in this class.
+The material you learn here will continue to prepare you for crushing technical interviews, and how to start the path of becoming a leader in your environment. 
 
 ## Prerequisites:  
 
-- [Prerequisite 1]()
-- [Prerequisite 2]()
+- [SPD 1.01](https://github.com/Make-School-Courses/SPD-1.01-Engineering-Careers-1)
 
 ## Learning Outcomes
 
@@ -29,50 +28,25 @@ By the end of the course, you will be able to ...
 
 **NOTE:** Due to the shorter summer sessions, for some class sessions you will see multiple topics covered. This schedule compression is to ensure that we cover the same material that we normally would in non-summer terms.
 
----
-### **[INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE MAY 27]**
-If you teach **M/W** or **Tu/Th**, please pick from a template below and delete the other one
+**Course Dates:** Monday, July 8 – Wednesday, August 14, 2019 (6 weeks)
 
----
-### M/W Template **[PLEASE REMOVE THIS HEADER BEFORE MAY 27]**
-**Course Dates:** Wednesday, May 29 – Wednesday, July 3, 2019 (6 weeks)
-
-**Class Times:** Monday and Wednesday at 3:30–5:20pm (11 class sessions)
+**Class Times:** Monday and Wednesday at 10:00–11:50am (12 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  - |  Mon, May 27                         | **Memorial Day** |
-|  1 |  Wed, May 29                      | [Lesson 1] |
-|  2 |  Mon, June 3                         | [Lesson 2] |
-|  3 |  Wed, June 5                     | [Lesson 3] <br/> **/** <br/> [Lesson 4] |
-|  4 |  Mon, June 10                        | [Lesson 5] |
-|  5 |  Wed, June 12                     | [Lesson 6] |
-|  6 |  Mon, June 17                        | [Lesson 7] <br/> **/** <br/> [Lesson 8] |
-|  7 |  Wed, June 19                     | [Lesson 9] |
-|  8 |  Mon, June 24                        | [Lesson 10] <br/> **/** <br/> [Lesson 11] |
-| 9 |  Wed, June 26                        | [Lesson 12] |
-| 10 |  Mon, July 1                           | [Lesson 13] |  
-| 11 |  Wed, July 3                        | Final Exams/Presentations |
-
-
-### Tu/Th Template **[PLEASE REMOVE THIS HEADER BEFORE MAY 27]**
-**Course Dates:** Tuesday, May 28 – Tuesday, July 2, 2019 (6 weeks)
-
-**Class Times:** Tuesday and Thursday at 3:30–5:20pm (11 class sessions)
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tu, May 28                        | [Lesson 1] |
-|  2 |  Th, May 30                       | [Lesson 2] |
-|  3 |  Tu, June 4                        | [Lesson 3] <br/> **/** <br/> [Lesson 4] |
-|  4 |  Th, June 6                      | [Lesson 5] |
-|  5 |  Tu, June 11                       | [Lesson 6] |
-|  6 |  Th, June 13                      | [Lesson 7] <br/> **/** <br/> [Lesson 8] |
-|  7 |  Tu, June 18                       | [Lesson 9] |
-|  8 |  Th, June 20                      | [Lesson 10] <br/> **/** <br/> [Lesson 11] |
-|  9 |  Tu, June 25                       | [Lesson 12] |
-| 10 |  Th, June 27                        | [Lesson 13] |
-| 11 |  Tu, July 2                       | Final Exams/Presentations |  
+|  1 |  Mon, July 8                      | [Lesson 1] |
+|  2 |  Wed, July 10                         | [Lesson 2] |
+|  3 |  Mon, July 15                     | [Lesson 3] <br/> **/** <br/> [Lesson 4] |
+|  4 |  Wed, July 17                        | [Lesson 5] |
+|  5 |  Mon, July 22                     | [Lesson 6] |
+|  6 |  Wed, July 24                        | [Lesson 7] <br/> **/** <br/> [Lesson 8] |
+|  7 |  Mon, June 29                     | [Lesson 9] |
+|  8 |  Wed, June 31                        | [Lesson 10] <br/> **/** <br/> [Lesson 11] |
+| 9 |  Mon, August 5                        | [Lesson 12] |
+| 10 |  Wed, August 7                           | [Lesson 13] |  
+| 11 |  Mon, August 12                        | Final Exam|
+| 12 |  Wed, August 14                        | Final Presentations |
+  
 
 [Lesson 1]: Lessons/Lesson1.md
 [Lesson 2]: Lessons/Lesson2.md
