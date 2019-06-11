@@ -18,7 +18,7 @@ By the end of the course, you will be able to ...
 
 1. Empower peers through building trust and utilizing effective coaching practices
 1. Lead teams through using a variety of product management and communication best practices
-1. Develop the skillsets and confidence of teammates using the science of learning and interventions around common collaboration issues
+1. Develop the skillsets and confidence of teammates using the science of learning
 1. Further improve upon your technical interviewing skillset
 1. Answer behavioral interview questions such that they highlight your skillset and talents
 
