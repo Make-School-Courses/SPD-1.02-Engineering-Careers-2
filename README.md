@@ -62,14 +62,87 @@ By the end of the course, you will be able to ...
 
 ## Class Assignments
 
-### Tutorials
+### Quiz 1: Leadership Models and Warm Demander
 
-- [Do Cool Stuff Tutorial]()
+**Quiz will take place on Wed, July 24**
 
-### Projects
+There will be a quiz on Leadership Models and Warm Demander. Expect there to be a mixture of multiple choice and free response questions.
 
-- [Project Template - Use to build your own project spec](https://docs.google.com/document/d/1j4ualsYjrd-7ePdyP3KU03xrpg41k1AoSU0YKkx9_I8/edit?usp=sharing)
-    -   [Sample Project Rubric](Sample_Rubric.md)
+Quiz link will be distributed on the day of.
+
+### Code Reviews (2 total)
+
+**Due: Wednesday July 31st**
+
+Do a code review for two different peers (**two total code reviews**). Ask them for a codebase with substantial code - i.e. intensive project or projects at the harder end of difficulty for the developer.
+
+**Submission**
+
+1. Read through the [code review rubric](https://docs.google.com/document/d/19m8J8I5ZT66m5x1Q87yr6-CDg_jxBNCVd_a4fSq1xiw/edit?usp=sharing) for guidance on how to give feedback 
+1. Open an issue on the GitHub Repo for the code you are reviewing: Click on the `Issues` tab, and then click the `New Issue` button
+1. Provide your feedback in the issue. Include code snippets from their project to specifically highlight what you would change/improve
+1. At the top of the code review, list the [code review rubric row topics](https://docs.google.com/document/d/19m8J8I5ZT66m5x1Q87yr6-CDg_jxBNCVd_a4fSq1xiw/edit?usp=sharing) you address in the code review (i.e. Readability & Formatting, Testing & Error Handling, etc.)
+1. Put the link to your opened issue in the progress tracker
+
+**Evaluation:**
+
+To pass the code review assignments, you as the reviewer must provide feedback on 4/6 row topics as listed in the [code review rubric](https://docs.google.com/document/d/19m8J8I5ZT66m5x1Q87yr6-CDg_jxBNCVd_a4fSq1xiw/edit?usp=sharing)
+
+### Pair Programming
+
+**Due: Wednesday August 7th**
+
+Do **two Pair Programing sessions with a peer on their project** (you’ll be the navigator, then switch to the driver). Both sessions can be with the same peer, or a different peer per sessoin. 
+
+Context: Engineers at Facebook, Twitter, Square and countless other tech companies do pair programming. Your abilities as a future boss, PM, peer, and engineer teammate will be heightened through the skills you practice through this assignment. Your goal is to have your partner leave the session feeling empowered rather than discouraged. Use your knowledge from class (slides [here](https://docs.google.com/presentation/d/1Xs43CIsX56hMN3BBVR88zzaCvMqNT1mpFv_gH6z7_Wc/edit?usp=sharing) and [here](https://docs.google.com/presentation/d/1nZnYIpEcNhNN71E122PnnVF-s3D85Fa9J1XU_7x0yE4/edit?usp=sharing); [pair programming agenda](https://docs.google.com/document/d/19m8J8I5ZT66m5x1Q87yr6-CDg_jxBNCVd_a4fSq1xiw/edit?usp=sharing)) to help a peer level up.  
+
+
+**Submission:** 
+
+1. Schedule time with a peer to do a pair programming session
+1. Follow [this agenda](https://docs.google.com/document/d/19FI_MGJ2SEWioMMQSnbXi7ygipV3iUGBpSfypxShtkQ/edit?usp=sharing) during your session
+1. Have your partner fill out this form to evaluate your efforts: [http://make.sc/pair-programming-form](http://make.sc/pair-programming-form)
+
+**Evaluation:**
+
+To pass the pair programming assignments, you must do the following:
+
+1. Ensure that your partner logs your two pair programming sessions via the evaluation form: [http://make.sc/pair-programming-form](http://make.sc/pair-programming-form)
+1. You utilize at least 2/3 of the senior skills outlined in the [pair programming agenda](https://docs.google.com/document/d/19FI_MGJ2SEWioMMQSnbXi7ygipV3iUGBpSfypxShtkQ/edit?usp=sharing)
+
+
+### Quiz 2: PMs and Communications
+
+**Quiz will take place on Wed, August 14**
+
+There will be a quiz on PMs and Communication. Expect there to be a mixture of multiple choice and free response questions.
+
+Quiz link will be distributed on the day of.
+
+### Letter to Incoming Juniors
+
+**Due: August 14th**
+
+Write a letter to incoming juniors on how to succeed at Make School. **Your letter should include at least ⅔ of following components to pass:**
+
+- **Vulnerability** (on your part, to create a sense of psychological safety and relatability) 
+- **Growth Mindset** (so they have a healthy perspective on failure and learning)
+- **Tips for success** (so they utilize all the resources and best practices available to them)
+
+Some SPD 1.02 students will have the option of sending their letter to incoming juniors before they join the class. Your letter will help empower the next generation of Make School students!
+
+**Submission:** 
+
+Place link of the letter into the tracker, ideally a medium post.
+
+- You can keep your post private (if you like) by leaving it in "draft form" - it will be accessible to people whom you share the link but not public!
+
+**Evaluation:**
+
+- Must score above a 2 on the [writing rubric](https://docs.google.com/document/d/1T1oqHFoRo0kl7mPUTFupmsoEkLYltKsVgtqyGKDaCgY/edit) to pass
+- Must include 2-3 of the components listed above to pass
+
+
 
 ## Evaluation
 **[MAKE SPECIFIC TO YOUR COURSE SO IT IS SUPER CLEAR]**
