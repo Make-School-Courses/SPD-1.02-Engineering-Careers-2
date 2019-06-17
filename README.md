@@ -32,41 +32,38 @@ By the end of the course, you will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Mon, July 8                      | [Lesson 1] |
+|  1 |  Mon, July 8                      | [Building Trust] |
 |  2 |  Wed, July 10                         | [Lesson 2] |
-|  3 |  Mon, July 15                     | [Lesson 3] <br/> **/** <br/> [Lesson 4] |
-|  4 |  Wed, July 17                        | [Lesson 5] |
-|  5 |  Mon, July 22                     | [Lesson 6] |
-|  6 |  Wed, July 24                        | [Lesson 7] <br/> **/** <br/> [Lesson 8] |
-|  7 |  Mon, June 29                     | [Lesson 9] |
-|  8 |  Wed, June 31                        | [Lesson 10] <br/> **/** <br/> [Lesson 11] |
-| 9 |  Mon, August 5                        | [Lesson 12] |
-| 10 |  Wed, August 7                           | [Lesson 13] |  
+|  3 |  Mon, July 15                     | [Leadership Models & Warm Demander] |
+|  4 |  Wed, July 17                        | [Lesson 4] |
+|  5 |  Mon, July 22                     | [Science of Learning & Pair Programming] |
+|  6 |  Wed, July 24                        | [Lesson 6] |
+|  7 |  Mon, June 29                     | [Coaching Issues & Interventions] |
+|  8 |  Wed, June 31                        | [Lesson 8] |
+| 9 |  Mon, August 5                        | [PMs & Communication] |
+| 10 |  Wed, August 7                           | [Lesson 10] |  
 | 11 |  Mon, August 12                        | Final Exam|
 | 12 |  Wed, August 14                        | Final Presentations |
   
 
-[Lesson 1]: Lessons/Lesson1.md
+[Building Trust]: https://docs.google.com/presentation/d/1yhri9SnNGcBZpaaALLVddFwLIfthsiJ8Uw8HBzcjJa4/edit?usp=sharing
 [Lesson 2]: Lessons/Lesson2.md
-[Lesson 3]: Lessons/Lesson3.md
+[Leadership Models & Warm Demander]: https://docs.google.com/presentation/d/1Xs43CIsX56hMN3BBVR88zzaCvMqNT1mpFv_gH6z7_Wc/edit?usp=sharing
 [Lesson 4]: Lessons/Lesson4.md
-[Lesson 5]: Lessons/Lesson5.md
+[Science of Learning & Pair Programming]: https://docs.google.com/presentation/d/1nZnYIpEcNhNN71E122PnnVF-s3D85Fa9J1XU_7x0yE4/edit?usp=sharing
 [Lesson 6]: Lessons/Lesson6.md
-[Lesson 7]: Lessons/Lesson7.md
+[Coaching Issues & Interventions]: https://docs.google.com/presentation/d/1SnOp0hG7pYvXqC0GDRaG4zatvfpcF1_RFjjhbjJIipE/edit?usp=sharing
 [Lesson 8]: Lessons/Lesson8.md
-[Lesson 9]: Lessons/Lesson9.md
+[PMs & Communication]: https://docs.google.com/presentation/d/1A8gEFcWZoGYUUiSBDctwr1T9SS2BFUcpJ7MlrHthSuo/edit?usp=sharing
 [Lesson 10]: Lessons/Lesson10.md
-[Lesson 11]: Lessons/Lesson11.md
-[Lesson 12]: Lessons/Lesson12.md
-[Lesson 13]: Lessons/Lesson13.md
 
 ## Class Assignments
 
-### Quiz 1: Leadership Models and Warm Demander
+### Quiz 1: Leadership Models & Warm Demander
 
 **Quiz will take place on Wed, July 24**
 
-There will be a quiz on Leadership Models and Warm Demander. Expect there to be a mixture of multiple choice and free response questions.
+There will be a quiz on Leadership Models & Warm Demander. Expect there to be a mixture of multiple choice and free response questions.
 
 Quiz link will be distributed on the day of.
 
@@ -111,11 +108,11 @@ To pass the pair programming assignments, you must do the following:
 1. You utilize at least 2/3 of the senior skills outlined in the [pair programming agenda](https://docs.google.com/document/d/19FI_MGJ2SEWioMMQSnbXi7ygipV3iUGBpSfypxShtkQ/edit?usp=sharing)
 
 
-### Quiz 2: PMs and Communications
+### Quiz 2: PMs & Communications
 
 **Quiz will take place on Wed, August 14**
 
-There will be a quiz on PMs and Communication. Expect there to be a mixture of multiple choice and free response questions.
+There will be a quiz on PMs & Communication. Expect there to be a mixture of multiple choice and free response questions.
 
 Quiz link will be distributed on the day of.
 
