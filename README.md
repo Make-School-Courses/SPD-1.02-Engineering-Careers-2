@@ -42,8 +42,8 @@ By the end of the course, you will be able to ...
 |  8 |  Wed, June 31                        | [Lesson 8] |
 | 9 |  Mon, August 5                        | [PMs & Communication] |
 | 10 |  Wed, August 7                           | [Lesson 10] |  
-| 11 |  Mon, August 12                        | Final Exam|
-| 12 |  Wed, August 14                        | Final Presentations |
+| 11 |  Mon, August 12                        | [Lesson 11]|
+| 12 |  Wed, August 14                        | Final Exam |
   
 
 [Building Trust]: https://docs.google.com/presentation/d/1yhri9SnNGcBZpaaALLVddFwLIfthsiJ8Uw8HBzcjJa4/edit?usp=sharing
@@ -56,6 +56,7 @@ By the end of the course, you will be able to ...
 [Lesson 8]: Lessons/Lesson8.md
 [PMs & Communication]: https://docs.google.com/presentation/d/1A8gEFcWZoGYUUiSBDctwr1T9SS2BFUcpJ7MlrHthSuo/edit?usp=sharing
 [Lesson 10]: Lessons/Lesson10.md
+[Lesson 11]: Lessons/Lesson11.md
 
 ## Class Assignments
 
