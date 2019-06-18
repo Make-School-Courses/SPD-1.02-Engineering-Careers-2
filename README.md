@@ -143,7 +143,6 @@ Place link of the letter into the tracker, ideally a medium post.
 
 
 ## Evaluation
-**[MAKE SPECIFIC TO YOUR COURSE SO IT IS SUPER CLEAR]**
 To pass this course you must meet the following requirements:
 
 - Complete all required assignments 
