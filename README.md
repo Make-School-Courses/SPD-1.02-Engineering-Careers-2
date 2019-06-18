@@ -86,7 +86,7 @@ Do a code review for two different peers (**two total code reviews**). Ask them 
 
 To pass the code review assignments, you as the reviewer must provide feedback on 4/6 row topics as listed in the [code review rubric](https://docs.google.com/document/d/19m8J8I5ZT66m5x1Q87yr6-CDg_jxBNCVd_a4fSq1xiw/edit?usp=sharing)
 
-### Pair Programming
+### Pair Programming Sessions (2 total)
 
 **Due: Wednesday August 7th**
 
