@@ -38,8 +38,8 @@ By the end of the course, you will be able to ...
 |  4 |  Wed, July 17                        | [Lesson 4] |
 |  5 |  Mon, July 22                     | [Science of Learning & Pair Programming] |
 |  6 |  Wed, July 24                        | [Lesson 6] |
-|  7 |  Mon, June 29                     | [Coaching Issues & Interventions] |
-|  8 |  Wed, June 31                        | [Lesson 8] |
+|  7 |  Mon, July 29                     | [Coaching Issues & Interventions] |
+|  8 |  Wed, July 31                        | [Lesson 8] |
 | 9 |  Mon, August 5                        | [PMs & Communication] |
 | 10 |  Wed, August 7                           | [Lesson 10] |  
 | 11 |  Mon, August 12                        | [Lesson 11]|
