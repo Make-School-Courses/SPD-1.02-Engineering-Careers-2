@@ -33,30 +33,40 @@ By the end of the course, you will be able to ...
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |  Mon, July 8                      | [Building Trust] |
-|  2 |  Wed, July 10                         | [Lesson 2] |
+|  2 |  Wed, July 10                         | [Framing Behavioral Interviewing] |
 |  3 |  Mon, July 15                     | [Leadership Models & Warm Demander] |
-|  4 |  Wed, July 17                        | [Lesson 4] |
+|  4 |  Wed, July 17                        | [Strategies for Behavioral Interviewing: Situational Awareness] |
 |  5 |  Mon, July 22                     | [Science of Learning & Pair Programming] |
-|  6 |  Wed, July 24                        | [Lesson 6] |
+|  6 |  Wed, July 24                        | [Strategies for Behavioral Interviewing: Attunement] |
 |  7 |  Mon, July 29                     | [Coaching Issues & Interventions] |
-|  8 |  Wed, July 31                        | [Lesson 8] |
+|  8 |  Wed, July 31                        | [Coderpad Interviews & Take Home Project] |
 | 9 |  Mon, August 5                        | [PMs & Communication] |
-| 10 |  Wed, August 7                           | [Lesson 10] |  
-| 11 |  Mon, August 12                        | [Lesson 11]|
+| 10 |  Wed, August 7                           | [Behavioral Interview Drilling] |  
+| 11 |  Mon, August 12                        | [Final White Board Coding]|
 | 12 |  Wed, August 14                        | Final Exam |
   
 
 [Building Trust]: https://docs.google.com/presentation/d/1yhri9SnNGcBZpaaALLVddFwLIfthsiJ8Uw8HBzcjJa4/edit?usp=sharing
-[Lesson 2]: Lessons/Lesson2.md
+
+[Framing Behavioral Interviewing]: Lessons/Lesson2.md
+
 [Leadership Models & Warm Demander]: https://docs.google.com/presentation/d/1Xs43CIsX56hMN3BBVR88zzaCvMqNT1mpFv_gH6z7_Wc/edit?usp=sharing
-[Lesson 4]: Lessons/Lesson4.md
+
+[Strategies for Behavioral Interviewing: Situational Awareness]: Lessons/Lesson4.md
+
 [Science of Learning & Pair Programming]: https://docs.google.com/presentation/d/1nZnYIpEcNhNN71E122PnnVF-s3D85Fa9J1XU_7x0yE4/edit?usp=sharing
-[Lesson 6]: Lessons/Lesson6.md
+
+[Strategies for Behavioral Interviewing: Attunement]: Lessons/Lesson6.md
+
 [Coaching Issues & Interventions]: https://docs.google.com/presentation/d/1SnOp0hG7pYvXqC0GDRaG4zatvfpcF1_RFjjhbjJIipE/edit?usp=sharing
-[Lesson 8]: Lessons/Lesson8.md
+
+[Coderpad Interviews & Take Home Project]: Lessons/Lesson8.md
+
 [PMs & Communication]: https://docs.google.com/presentation/d/1A8gEFcWZoGYUUiSBDctwr1T9SS2BFUcpJ7MlrHthSuo/edit?usp=sharing
-[Lesson 10]: Lessons/Lesson10.md
-[Lesson 11]: Lessons/Lesson11.md
+
+[Behavioral Interview Drilling]: Lessons/Lesson10.md
+
+[Final White Board Coding]: Lessons/Lesson11.md
 
 ## Class Assignments
 
