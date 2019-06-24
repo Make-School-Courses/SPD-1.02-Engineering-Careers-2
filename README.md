@@ -48,7 +48,7 @@ By the end of the course, you will be able to ...
 
 [Building Trust]: https://docs.google.com/presentation/d/1yhri9SnNGcBZpaaALLVddFwLIfthsiJ8Uw8HBzcjJa4/edit?usp=sharing
 
-[Framing Behavioral Interviewing]: Lessons/Lesson2.md
+[Framing Behavioral Interviewing]: https://docs.google.com/presentation/d/1UzYmvtyJP7VrHkuAU7WcTt5LLEZ2CyofHw_in-h7kBk/edit#slide=id.g5c2e78bb1f_0_84
 
 [Leadership Models & Warm Demander]: https://docs.google.com/presentation/d/1Xs43CIsX56hMN3BBVR88zzaCvMqNT1mpFv_gH6z7_Wc/edit?usp=sharing
 
