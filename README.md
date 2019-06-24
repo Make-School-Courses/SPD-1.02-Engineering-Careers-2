@@ -41,7 +41,7 @@ By the end of the course, you will be able to ...
 |  7 |  Mon, July 29                     | [Coaching Issues & Interventions] |
 |  8 |  Wed, July 31                        | [Coderpad Interviews & Take Home Projects] |
 | 9 |  Mon, August 5                        | [PMs & Communication] |
-| 10 |  Wed, August 7                           | [Behavioral Interview Drilling] |  
+| 10 |  Wed, August 7                           | Behavioral Interview Drilling in Groups of 4 |  
 | 11 |  Mon, August 12                        | Final Exam|
 | 12 |  Wed, August 14                        | [Final White Board Coding] |
   
@@ -60,11 +60,9 @@ By the end of the course, you will be able to ...
 
 [Coaching Issues & Interventions]: https://docs.google.com/presentation/d/1SnOp0hG7pYvXqC0GDRaG4zatvfpcF1_RFjjhbjJIipE/edit?usp=sharing
 
-[Coderpad Interviews & Take Home Projects]: Lessons/Lesson8.md
+[Coderpad Interviews & Take Home Projects]: https://docs.google.com/presentation/d/13bdEEG7omU_p4mql9h6-AXOsuD4c_HlMBscucgrdUSs/edit
 
 [PMs & Communication]: https://docs.google.com/presentation/d/1A8gEFcWZoGYUUiSBDctwr1T9SS2BFUcpJ7MlrHthSuo/edit?usp=sharing
-
-[Behavioral Interview Drilling]: Lessons/Lesson10.md
 
 [Final White Board Coding]: Lessons/Lesson11.md
 
