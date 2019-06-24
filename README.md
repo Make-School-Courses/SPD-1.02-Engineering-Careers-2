@@ -56,7 +56,7 @@ By the end of the course, you will be able to ...
 
 [Science of Learning & Pair Programming]: https://docs.google.com/presentation/d/1nZnYIpEcNhNN71E122PnnVF-s3D85Fa9J1XU_7x0yE4/edit?usp=sharing
 
-[Strategies for Behavioral Interviewing: Attunement]: Lessons/Lesson6.md
+[Strategies for Behavioral Interviewing: Attunement]: https://docs.google.com/presentation/d/1ur2Wp1p2lWnFQfZ1QYGMDXP-87izAul7JnCvVO7lhZI/edit#slide=id.g5c303e9ba7_0_90
 
 [Coaching Issues & Interventions]: https://docs.google.com/presentation/d/1SnOp0hG7pYvXqC0GDRaG4zatvfpcF1_RFjjhbjJIipE/edit?usp=sharing
 
