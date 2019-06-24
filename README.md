@@ -110,7 +110,7 @@ To pass the code review assignments, you as the reviewer must provide feedback o
 
 A common interview practice is to assign a take home project for the interviee to complete. You're typically given a prompt or spec to follow, and a deliverable date or timeline. Through this assignment, our goal is to give you practice with a take home project with the same conditions you'd find in a real interview scenario.
 
-Spec/Details on the project coming soon!
+Requirements will be given out the day it is assigned (July 31st). 
 
 ### Pair Programming Sessions (2 total)
 
