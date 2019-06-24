@@ -52,7 +52,7 @@ By the end of the course, you will be able to ...
 
 [Leadership Models & Warm Demander]: https://docs.google.com/presentation/d/1Xs43CIsX56hMN3BBVR88zzaCvMqNT1mpFv_gH6z7_Wc/edit?usp=sharing
 
-[Strategies for Behavioral Interviewing: Situational Awareness]: Lessons/Lesson4.md
+[Strategies for Behavioral Interviewing: Situational Awareness]: https://docs.google.com/presentation/d/19mtsJUPtsVaz834himqbiOZYXMTU_A2qJnqDX0GD6XA/edit#slide=id.g5c2e78bb1f_0_76
 
 [Science of Learning & Pair Programming]: https://docs.google.com/presentation/d/1nZnYIpEcNhNN71E122PnnVF-s3D85Fa9J1XU_7x0yE4/edit?usp=sharing
 
@@ -60,7 +60,7 @@ By the end of the course, you will be able to ...
 
 [Coaching Issues & Interventions]: https://docs.google.com/presentation/d/1SnOp0hG7pYvXqC0GDRaG4zatvfpcF1_RFjjhbjJIipE/edit?usp=sharing
 
-[Coderpad Interviews & Take Home Project]: Lessons/Lesson8.md
+[Coderpad Interviews & Take Home Projects]: Lessons/Lesson8.md
 
 [PMs & Communication]: https://docs.google.com/presentation/d/1A8gEFcWZoGYUUiSBDctwr1T9SS2BFUcpJ7MlrHthSuo/edit?usp=sharing
 
