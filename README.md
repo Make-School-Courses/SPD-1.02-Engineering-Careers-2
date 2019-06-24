@@ -19,8 +19,8 @@ By the end of the course, you will be able to ...
 1. Empower peers through building trust and utilizing effective coaching practices
 1. Lead teams through using a variety of product management and communication best practices
 1. Develop the skillsets and confidence of teammates using the science of learning
-1. Further improve upon your technical interviewing skillset
-1. Answer behavioral interview questions such that they highlight your skillset and talents
+1. Become more comfortable with online, live-coding interview tools and take home coding projects.
+1. Demonstrate using various strategies to answer behavioral interview questions to highlight your specific story, skill set, and talents.
 
 ## Schedule
 
@@ -39,7 +39,7 @@ By the end of the course, you will be able to ...
 |  5 |  Mon, July 22                     | [Science of Learning & Pair Programming] |
 |  6 |  Wed, July 24                        | [Strategies for Behavioral Interviewing: Attunement] |
 |  7 |  Mon, July 29                     | [Coaching Issues & Interventions] |
-|  8 |  Wed, July 31                        | [Coderpad Interviews & Take Home Project] |
+|  8 |  Wed, July 31                        | [Coderpad Interviews & Take Home Projects] |
 | 9 |  Mon, August 5                        | [PMs & Communication] |
 | 10 |  Wed, August 7                           | [Behavioral Interview Drilling] |  
 | 11 |  Mon, August 12                        | Final Exam|
