@@ -19,8 +19,8 @@ By the end of the course, you will be able to ...
 1. Empower peers through building trust and utilizing effective coaching practices
 1. Lead teams through using a variety of product management and communication best practices
 1. Develop the skillsets and confidence of teammates using the science of learning
-1. Become more comfortable with online, live-coding interview tools and take home coding projects.
-1. Highlight the value of your specific story, skill set, and talents in behavioral interviews.
+1. Further improve upon your technical interviewing skillset
+1. Answer behavioral interview questions such that they highlight your skillset and talents
 
 ## Schedule
 
@@ -70,6 +70,14 @@ By the end of the course, you will be able to ...
 
 ## Class Assignments
 
+### Answering Behavioral Interview Questions
+
+**Due: Wed, July 17**
+
+As you go through the interview process, you will encounter the same (or similar) behavioral interview questions in most interviews you take. It's good to have answers to common questions primed and ready to go so you can have examples and stories to share at hand that highlight your skillset and talents.
+
+Link to questions doc coming soon!
+
 ### Quiz 1: Leadership Models & Warm Demander
 
 **Quiz will take place on Wed, July 24**
@@ -80,7 +88,7 @@ Quiz link will be distributed on the day of.
 
 ### Code Reviews (2 total)
 
-**Due: Wednesday July 31st**
+**Due: Wed, July 31st**
 
 Do a code review for two different peers (**two total code reviews**). Ask them for a codebase with substantial code - i.e. intensive project or projects at the harder end of difficulty for the developer.
 
@@ -96,9 +104,17 @@ Do a code review for two different peers (**two total code reviews**). Ask them 
 
 To pass the code review assignments, you as the reviewer must provide feedback on 4/6 row topics as listed in the [code review rubric](https://docs.google.com/document/d/19m8J8I5ZT66m5x1Q87yr6-CDg_jxBNCVd_a4fSq1xiw/edit?usp=sharing)
 
+### Take Home Coding Project
+
+**Due: Fri, August 2nd**
+
+A common interview practice is to assign a take home project for the interviee to complete. You're typically given a prompt or spec to follow, and a deliverable date or timeline. Through this assignment, our goal is to give you practice with a take home project with the same conditions you'd find in a real interview scenario.
+
+Spec/Details on the project coming soon!
+
 ### Pair Programming Sessions (2 total)
 
-**Due: Wednesday August 7th**
+**Due: Wed, August 7th**
 
 Do **two Pair Programing sessions with a peer on their project** (you’ll be the navigator, then switch to the driver). Both sessions can be with the same peer, or a different peer per sessoin. 
 
@@ -129,7 +145,7 @@ Quiz link will be distributed on the day of.
 
 ### Letter to Incoming Juniors
 
-**Due: August 14th**
+**Due: Wed, August 14th**
 
 Write a letter to incoming juniors on how to succeed at Make School. **Your letter should include at least ⅔ of following components to pass:**
 
