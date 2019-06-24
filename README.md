@@ -42,8 +42,8 @@ By the end of the course, you will be able to ...
 |  8 |  Wed, July 31                        | [Coderpad Interviews & Take Home Project] |
 | 9 |  Mon, August 5                        | [PMs & Communication] |
 | 10 |  Wed, August 7                           | [Behavioral Interview Drilling] |  
-| 11 |  Mon, August 12                        | [Final White Board Coding]|
-| 12 |  Wed, August 14                        | Final Exam |
+| 11 |  Mon, August 12                        | Final Exam|
+| 12 |  Wed, August 14                        | [Final White Board Coding] |
   
 
 [Building Trust]: https://docs.google.com/presentation/d/1yhri9SnNGcBZpaaALLVddFwLIfthsiJ8Uw8HBzcjJa4/edit?usp=sharing
