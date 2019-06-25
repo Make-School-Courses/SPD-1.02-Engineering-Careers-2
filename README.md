@@ -70,11 +70,13 @@ By the end of the course, you will be able to ...
 
 ### Answering Behavioral Interview Questions
 
-**Due: Wed, July 17**
+**3 answers due: Wed, July 17**
+
+**5 additional answers due: Wed, July 24**
 
 As you go through the interview process, you will encounter the same (or similar) behavioral interview questions in most interviews you take. It's good to have answers to common questions primed and ready to go so you can have examples and stories to share at hand that highlight your skillset and talents.
 
-**Answer 3 questions from [this list of behavioral interview questions](./Assignments/common-bi-questions.md) and link to your answers in the course tracker**
+**Answer questions from [this list of behavioral interview questions](./Assignments/common-bi-questions.md) and link to your answers in the course tracker**
 
 ### Quiz 1: Leadership Models & Warm Demander
 
