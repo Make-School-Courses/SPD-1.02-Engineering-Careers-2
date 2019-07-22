@@ -80,7 +80,7 @@ As you go through the interview process, you will encounter the same (or similar
 
 ### Quiz 1: Leadership Models & Warm Demander
 
-**Quiz will take place on Wed, July 24**
+**Quiz will take place on Mon, July 22**
 
 There will be a quiz on Leadership Models & Warm Demander. Expect there to be a mixture of multiple choice and free response questions.
 
