@@ -112,7 +112,7 @@ A common interview practice is to assign a take home project for the interviee t
 
 Requirements will be given out the day it is assigned (July 31st). 
 
-### Pair Programming Sessions (4 total)
+### Pair Programming Sessions (2 total)
 
 **Due: Wed, August 7th**
 
