@@ -68,7 +68,7 @@ By the end of the course, you will be able to ...
 
 ## Class Assignments
 
-### Answering Behavioral Interview Questions
+### Answering Behavioral Interview Questions (OPTIONAL!)
 
 **3 answers due: Wed, July 17**
 
